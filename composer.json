@@ -1,0 +1,11 @@
+{
+    "name": "appguard/demo-cebit",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "~1.10.0",
+        "symfony/yaml": "~v4.0.1",
+        "symfony/console": "~v4.0.2",
+        "guzzlehttp/guzzle": "~6.1.1"
+    }
+}
